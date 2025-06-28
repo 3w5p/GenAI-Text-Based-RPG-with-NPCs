@@ -1,4 +1,4 @@
-#GenAI Text-Based RPG with NPCs
+# GenAI Text-Based RPG with NPCs
 
 A text-based role-playing game with AI-powered NPC dialogue, built with Python and Mistral 7B via llama.cpp.
 
