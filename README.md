@@ -38,6 +38,7 @@ pip install streamlit requests
 ```
 4. Configure Game Paths
 Edit npc_dialogue.py to set correct paths:
+```
 llama_process = subprocess.Popen(
     [
         "path/to/llama.cpp/build/bin/Release/llama-cli.exe",  # Update this path
@@ -45,6 +46,7 @@ llama_process = subprocess.Popen(
         # ... rest of configuration
     ]
 )
+```
 How to Run
 Terminal Version
 ```bash
